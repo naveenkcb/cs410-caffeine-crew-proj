@@ -6,8 +6,8 @@ This tool is expected to do the below:
 - Categorize the customer reviews into Goods and Service ratings on scale of one to five.
 
 In order to rate we will use the MetaPy package from python along with the below methods 
-  Text retrieval methods
-  Evaluation
-  Probablistic & Smoothing models 
+- Text retrieval methods
+- Evaluation
+- Probablistic & Smoothing models 
 
 
