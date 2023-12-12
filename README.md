@@ -3,11 +3,12 @@ Yelp Customer Review Sentiment Analysis
 
 This tool is expected to do the below:
 - Use the Yelp Open dataset as input.
-- Categorize the customer reviews into Goods and Service ratings on scale of one to five.
+- Build a sentiment analysis model that predicts whether a user liked a business or not, based on their reviews on Yelp.
 
-In order to rate we will use the MetaPy package from python along with the below methods 
-- Text retrieval methods
-- Evaluation
-- Probablistic & Smoothing models 
+Key Project Materials:
+- FinalProject_CS410.ipynb: Python Notebook that includes step by step executable code and the output for each step. It can be rerun as needed to perform Exploratory data analysis, Data Pre Processing, Feature Extraction, Build and Train Models using classifiers, Classifier Evaluation & Testing with unseen data
+- convert_json_to_csv.ipynb: Python notebook to convert yel dataset json to csv
+- yelp_review_in_scope_dataset_final.csv.zip: Yelp Dataset used in the project
+- Project Progress Report.pdf: Project Progress report
 
 
