@@ -5,7 +5,7 @@ This tool is expected to do the below:
 - Use the Yelp Open dataset as input.
 - Build a sentiment analysis model that predicts whether a user liked a business or not, based on their reviews on Yelp.
 
-<H2>Final Project Report:</H2>
+<H2>Final Project Report / Presentation:</H2>
 Please refer to Final Project report "Project Report - Yelp Review Sentiment Analysis.pdf" for more details on the project: 
 https://github.com/naveenkcb/cs410-caffeine-crew-proj/blob/main/Project%20Report%20-%20Yelp%20Review%20Sentiment%20Analysis.pdf
 
@@ -13,7 +13,7 @@ https://github.com/naveenkcb/cs410-caffeine-crew-proj/blob/main/Project%20Report
 Source Code is available in Python notebook FinalProject_CS410.ipynb and can be executed step by step for any sample yelp review dataset: 
 https://github.com/naveenkcb/cs410-caffeine-crew-proj/blob/main/FinalProject_CS410.ipynb
 
-- Please ensure to unzip the yelp_review_in_scope_dataset_final.csv.zip to yelp_review_in_scope_dataset.csv file prior to rerunning the notebook if you choose to run the project using our dataset
+- Please ensure to unzip the yelp_review_in_scope_dataset_final.csv.zip to yelp_review_in_scope_dataset.csv file prior to running the notebook if you choose to run the project using our dataset
 
 <H2>Key Project Materials:</H2>
 
